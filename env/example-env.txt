@@ -1,0 +1,5 @@
+NODE_ENV=example
+PORT=example
+# Set your database/API connection information here
+API_KEY=1234567890-example
+ACCESS_TOKEN=0987654321
